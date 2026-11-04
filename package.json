@@ -1,0 +1,8 @@
+{
+  "name": "despensa-de-la-semana",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lista del súper, total en vivo, recetas con lo que hay en casa y rutinas de gym.",
+  "engines": { "node": ">=18" }
+}
